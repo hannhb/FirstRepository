@@ -1,4 +1,8 @@
 # FirstRepository
 Excercise for intern position 
-Name: Nguyễn Hoàng Bảo Hân
-Major: network security
+
+Project name: FistProjectUsingGit
+Author: Bao Han
+Project specifications: lam quen voi git
+Link on Google Play Store/App Store ( if available ): no link
+Open a pull request to master and merged
